@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/gueyenono/gueyenono.r-universe.dev
 	branch = HEAD
+[submodule "layaR"]
+	path = layaR
+	url = https://github.com/gueyenono/layaR
+	branch = *release
