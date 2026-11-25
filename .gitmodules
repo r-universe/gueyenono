@@ -5,4 +5,4 @@
 [submodule "layaR"]
 	path = layaR
 	url = https://github.com/gueyenono/layaR
-	branch = v0.2.1
+	branch = v0.2.2
